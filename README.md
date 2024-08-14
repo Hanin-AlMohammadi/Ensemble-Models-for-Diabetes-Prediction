@@ -8,7 +8,7 @@ The project covers:
 
 . Model Training: Building and evaluating several models, including Logistic Regression, Random Forest, Decision Tree, SVM, and ensemble methods like Bagging, Boosting, Stacking, and Voting.
 
-. Model Evaluation: Assessing model performance using accuracy, classification reports, and
+. Model Evaluation: Assessing model performance using accuracy and classification reports.
 
 
 
